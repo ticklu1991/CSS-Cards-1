@@ -29,6 +29,8 @@ background-color: #d93b30;
   width:270px;
   height:350px;
   font-family:'Poppins',sans-serif;
+  color:white;
+
 }  
 
 
@@ -49,7 +51,7 @@ background-color: #d93b30;
 .img-resp{
   width: 100%;
 
-  /* first value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value applies to bottom-left corner  */
+  /*top-left,top-right,bottom-right,bottom-left*/
 
   border-radius: 12px 12px 0 0;
 }
